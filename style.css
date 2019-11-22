@@ -1,0 +1,73 @@
+.pages {
+ border: 1px solid black;
+ background-color: #fffff7;
+}
+.header {
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+
+.header2 {
+    background-color: black;
+    margin: 10px 10px 10px 10px;
+    height: 60px;
+    width: auto;
+}
+
+.header2 .title {
+    /* margin-top: 11pt; */
+    float: left;
+    color: white;
+    height: 50px;
+}
+
+.header2 .menu {
+    margin-top: 14pt;
+    float: right;
+}
+
+.header2 .menu a{
+    color: white;
+    margin-right: 15pt;
+    text-decoration: none;
+}
+
+.content {
+    margin: 10px 10px 10px 10px;
+}
+
+.footer {
+    margin: 10px 10px 10px 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/* 
+.header3 {
+    background-color: black;
+    margin: 10px 10px 10px 10px;
+    height: 60px;
+    width: auto;
+}
+
+.header3 .title1 {
+    /* margin-top: 11pt; */
+    float: left;
+    color: white;
+    height: 50px;
+}
+
+.header3 .menu1 {
+    margin-top: 14pt;
+    float: right;
+}
+
+.header3 .menu1 li{
+    display: inline;
+}
+.header3 .menu1 a{
+    color: white;
+    margin-right: 15pt;
+    text-decoration: none;
+} */
